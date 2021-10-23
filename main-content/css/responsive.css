@@ -1,0 +1,168 @@
+@media only screen and (max-width:993px){
+    .header-long-text {
+        font-size: 45px;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+    }
+    .btn-primary {
+        font-size: 18px;
+    }
+    .btn-success {
+        font-size: 18px;
+    }
+    .banner-text {
+        padding-bottom: 45%;
+    }
+    .discount-content span {
+        font-size: 40px;
+    }
+    .discount-content h2 {
+        font-size: 50px;
+    }
+}
+
+
+@media only screen and (max-width:770px){
+    .banner-text {
+        padding-bottom: 60%;
+    }
+    .discount-content h2 {
+        font-size: 45px;
+    }
+    .discount-content span {
+        font-size: 30px;
+    }
+    .pricing-table-bottom-middle-text h2 {
+        font-size: 25px;
+    }
+    .pricing-table-bottom-middle-text p {
+        font-size: 18px;
+        font-weight: 500;
+        margin-top: 8px;
+    }
+    .right-section p {
+        font-size: 18px;
+        color: #8b91a0;
+    }
+}
+@media only screen and (max-width:535px){
+    .banner-text h1 {
+        font-size: 20px;
+    }
+    .header-long-text {
+        font-size: 35px;
+    }
+    .banner-text h1 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .banner-text h1 {
+        font-size: 23px;
+        margin-bottom: 30px;
+        margin-top: 40% !important;
+    }
+}
+@media only screen and (max-width:450px){
+    .header-long-text {
+        font-size: 30px;
+    }
+    .btn-primary {
+        font-size: 18px;
+        margin-right: 0px !important;
+        margin: 20px 0;
+    }
+    .discount-content h2 {
+        font-size: 35px;
+    }
+    .discount-content span {
+        font-size: 25px;
+    }
+    .team-header h2 {
+        font-size: 30px;
+    }
+    .class-time-header-icon span {
+        font-size: 30px;
+    }
+    .pricing-header h2 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .pricing-table--bottom-lg-text {
+        font-size: 60px;
+    }
+    .pricing-table-bottom-middle-text p {
+        margin-top: 21px;
+    }
+    .class-time-header h2 {
+        color: black;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .our-service-header h2 {
+        font-weight: 700;
+    }
+    .fitness-gallery-header h2 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .healthy-tips-header h2 {
+        font-size: 25px;
+    }
+    .news-leatter-right ul li input {
+        padding-left: 20px;
+    }
+    .healthy-item-content h4 {
+        font-size: 20px;
+    }
+    .banner-text {
+        padding-bottom: 80%;
+    }
+    .header-long-text {
+        line-height: 80px;
+    }
+    .news-leatter-right ul li input {
+        padding-right: 80px;
+    }
+    .header-long-text {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 45px;
+    }
+    .news-leatter-left p {
+        font-size: 20px;
+    }
+    .banner-text h1 {
+        font-size: 17px;
+        font-weight: bold;
+    }
+}
+@media only screen and (max-width:380px){
+    .header-long-text {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 65px;
+    }
+    .banner-text h1 {
+        font-size: 16px;
+    }
+    .news-leatter-right ul li input {
+        padding-right: 55px;
+    }
+    .pricing-table-bottom-middle-text h2 {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width:310px){
+    .banner-text {
+        padding-bottom: 95%;
+    }
+    .header-long-text {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 55px;
+    }
+    .news-leatter-right ul li input {
+        padding-right: 30px;
+    }
+}
